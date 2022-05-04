@@ -2,6 +2,7 @@
 numpy
 torch>=1.7
 opencv_python
+opencv-contrib-python
 loguru
 scikit-image
 tqdm
@@ -11,6 +12,8 @@ thop
 ninja
 tabulate
 tensorboard
+xlrd
+colorhash
 
 # verified versions
 # pycocotools corresponds to https://github.com/ppwwyyxx/cocoapi
